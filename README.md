@@ -10,4 +10,4 @@ A tool to handle infos on Tobii Bonanza.
 ⠀
 ## 📋 How to use it?
 - Download and install Tampermonkey/Violetmonkey/Greasemonkey.
-- Open **tobiibonanzastats.user.js** and it'll automatically **asks you to install on your previously chosen monkey**.
+- Open [tobiibonanzastats.user.js](https://github.com/MeguminShiro/tobiibonanzastats/raw/refs/heads/main/tobiibonanzastats.user.js) and it'll automatically **asks you to install on your previously chosen monkey**.
